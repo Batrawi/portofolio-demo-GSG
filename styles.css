@@ -1,7 +1,12 @@
-/* this is my style sheet for my portfolio its contains on container styles
-    and lefy side style fo my pictures and other stuffs 
-    finally its full responsive page so i hope you like my 
-    portofolio project with html and css
+/* I used flex and grid to control on display elemnts and devide my container 
+    the section is : 
+    1- home 
+    2- my motivations
+    3- my services
+    4-my skills 
+    5- footer 
+    there is a links for my accounts on codewars,freecodecamp,
+    github and instagram , and I attached my cv with google docs link
 */
 :root {
   --customColor: #0044ff;
